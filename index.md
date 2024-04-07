@@ -8,7 +8,7 @@ Regression Automation is a pre decided set of tests which helps organisation to 
 
 Tools and languages : Java, RestAssured, Appium, TestNG, Maven, Testrail, Jenkins, Docker, Slack API, Gmail API
 
-<center><img src="/assets/img/RegressionTesting.png"/></center>
+<center><img src="assets/img/RegressionTesting.png"/></center>
 
 ---
 ### API Automation
@@ -16,7 +16,7 @@ Tools and languages : Java, RestAssured, Appium, TestNG, Maven, Testrail, Jenkin
 A backend suite is maintained here seperately for different interconnected services. Any new API go through a certain number of checks(Test cases) before being releases to production. I have worked on building this framework from scratch.
 
 Tools and languages : Python, Postman, PyTest, BDD
-<center><img src="/assets/img/APITesting.png"/></center>
+<center><img src="assets/img/APITesting.png"/></center>
 
 ---
 ### Reconcilliation automation
@@ -32,10 +32,10 @@ Started a track of automating the projects/features during the time of developme
 
 Tools and languages: Python, JAVA, Selenium, Appium, BDD, Pytest, SQL, RestAssured
 
-<center><img src="/assets/img/CICD.png"/></center>
+<center><img src="assets/img/CICD.png"/></center>
 
 ---
 ### Mentoring and Management
 
 I have a team of 4 quality analysts for whom I manage the tasks and assist them in their journey of growth, 2 of them joined as interns which are now working full time.
-<center><img src="/assets/img/Mentorship.png"/></center>
+<center><img src="assets/img/Mentorship.png"/></center>
