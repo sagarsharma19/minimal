@@ -32,6 +32,8 @@ Tools and languages: Python, Jupyter, CronJobs, Google API's, SQL, Metabases.
 
 Started a track of automating the projects/features during the time of development for both frontend and backend services. This impacted releases with less bugs and reduces overall time of delhivery along with that it reduces the repeated work for QA analysts.
 
+Tools and languages: Python, JAVA, Selenium, Appium, BDD, Pytest, SQL, RestAssured
+
 <center><img src="images/machine_learning.jpg"/></center>
 
 ---
