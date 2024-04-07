@@ -1,123 +1,41 @@
+# My Portfolio
 ---
-layout: default
+## Projects and contributions
+
+### Regression Automation
+
+Regression Automation is a pre decided set of tests which helps organisation to know how the app is performing and are there any errors in existing features due to any commit from the developers. The automation build is scalable and running more than 100 test cases daily using Jenkins and Docker.
+
+Tools and languages : Java, RestAssured, Appium, TestNG, Maven, Testrail, Jenkins, Docker, Slack API, Gmail API
+
+<center><img src="images/fraud_detection.jpg"/></center>
+
 ---
+### API Automation
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+A backend suite is maintained here seperately for different interconnected services. Any new API go through a certain number of checks(Test cases) before being releases to production. I have worked on building this framework from scratch.
 
-[Link to another page](./another-page.html).
+Tools and languages : Python, Postman, PyTest, BDD
+<center><img src="images/financial_modeling.jpg"/></center>
 
-There should be whitespace between paragraphs.
+---
+### Reconcilliation automation
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The credit ops and banking ops team perform various reconciliaton daily/weekly/montly for book keeping process. The number of transactions can vary from thousands to millions which makes it difficult to manually check each transaction. I worked on the automating this process from scratch from understanding the process to delhivering a automated job that runs on pre described time.
 
-# Header 1
+Tools and languages: Python, Jupyter, CronJobs, Google API's, SQL, Metabases.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<center><img src="https://camo.githubusercontent.com/a085b4fe60690252b8aa2de917c53fc3f63aec21aafea21c8f1ecb543d2c44cb/68747470733a2f2f7777772e616c74756d696e74656c6c6967656e63652e636f6d2f6173736574732f74696d652d7365726965732d70726564696374696f6e2d7573696e672d6c73746d2d646565702d6e657572616c2d6e6574776f726b732f73696e776176655f66756c6c5f7365712e706e67"/></center>
 
-## Header 2
+---
+### Insprint automation
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Started a track of automating the projects/features during the time of development for both frontend and backend services. This impacted releases with less bugs and reduces overall time of delhivery along with that it reduces the repeated work for QA analysts.
 
-### Header 3
+<center><img src="images/machine_learning.jpg"/></center>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
+### Mentoring and Management
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+I have a team of 4 quality analysts for whom I manage the tasks and assist them in their journey of growth, 2 of them joined as interns which are now working full time.
+<center><img src="images/text_classification.png"/></center>
