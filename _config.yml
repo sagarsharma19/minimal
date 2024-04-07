@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Sagar Sharma </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sagar-sharma-72a53b191/">LinkedIn</a>
+  
+  <br>   
+  I'm a software developer with keen enthusiast in Quality assurance and Data Sciences.
+  I feel excited about finding bugs and also developing automations for it. I have completed
+  my masters in Data Science which equipped me with tools that help me handling big data and apply
+  automation across sevices
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
